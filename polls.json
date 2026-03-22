@@ -216,7 +216,7 @@
 
 <script>
   // ← This is the POLL ID — change this to match which poll to load
-  const POLL_SLUG = 'dogs';
+  const POLL_SLUG = 'cats';
 
   let selected = null;
   let votes = {};
